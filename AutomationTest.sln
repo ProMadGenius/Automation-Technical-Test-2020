@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationTest", "AutomationTest\AutomationTest.csproj", "{5433E3A2-E70F-4CEF-8A6E-F7BC58D376E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITests", "AutomationTest\UITests.csproj", "{5433E3A2-E70F-4CEF-8A6E-F7BC58D376E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITests", "APITests\APITests.csproj", "{A9A03C18-886F-4A2B-A587-529DFCC13E61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5433E3A2-E70F-4CEF-8A6E-F7BC58D376E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5433E3A2-E70F-4CEF-8A6E-F7BC58D376E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5433E3A2-E70F-4CEF-8A6E-F7BC58D376E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A03C18-886F-4A2B-A587-529DFCC13E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A03C18-886F-4A2B-A587-529DFCC13E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A03C18-886F-4A2B-A587-529DFCC13E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A03C18-886F-4A2B-A587-529DFCC13E61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
