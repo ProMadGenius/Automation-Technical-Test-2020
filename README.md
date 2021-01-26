@@ -7,3 +7,5 @@ Use GIT and share your repository
 http://automationpractice.com/index.php
 ### b.	Please automate a test case to verify if this email michael.lawson@reqres.in is in page 2 in https://reqres.in/
 GET https://reqres.in/api/users?page=2. 
+
+By ProMadGenius
